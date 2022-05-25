@@ -7,7 +7,7 @@ Simple HUD horizontal flip ASM patch for ALTTP JP 1.0 vanilla or derivative ROM
 ![alttp-jp-20220525-000411](https://user-images.githubusercontent.com/538152/170369506-a6018d4a-1d10-46f2-ae4f-4eeb32ff8759.png)
 
 ## How to patch via BPS:
-1. Download the latest `hud-hflip.bps` BPS patch from Releases.
+1. Download the latest `hud-hflip.bps` BPS patch from [Latest Release](https://github.com/alttpo/hudflip/releases/latest).
 2. Apply the BPS patch using your favorite BPS tool to an ALTTP JP 1.0 vanilla or derivative ROM.
 
 ## How to patch via `asar`:
